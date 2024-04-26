@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\project1\stockmanegment system\stockmanegment system\bin\Debug\stockmanegment system.exe.config
+C:\Users\DELL\Desktop\project1\stockmanegment system\stockmanegment system\bin\Debug\stockmanegment system.exe
+C:\Users\DELL\Desktop\project1\stockmanegment system\stockmanegment system\bin\Debug\stockmanegment system.pdb
+C:\Users\DELL\Desktop\project1\stockmanegment system\stockmanegment system\obj\Debug\stockmanegment system.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\project1\stockmanegment system\stockmanegment system\obj\Debug\stockmanegment_system.Form1.resources
+C:\Users\DELL\Desktop\project1\stockmanegment system\stockmanegment system\obj\Debug\stockmanegment_system.Properties.Resources.resources
+C:\Users\DELL\Desktop\project1\stockmanegment system\stockmanegment system\obj\Debug\stockmanegment system.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\project1\stockmanegment system\stockmanegment system\obj\Debug\stockmanegment system.exe
+C:\Users\DELL\Desktop\project1\stockmanegment system\stockmanegment system\obj\Debug\stockmanegment system.pdb
+C:\Users\DELL\Desktop\project1\stockmanegment system\stockmanegment system\obj\Debug\stockmanegment_system.Form2.resources
+C:\Users\DELL\Desktop\project1\stockmanegment system\stockmanegment system\obj\Debug\stockmanegment_system.Form3.resources
+C:\Users\DELL\Desktop\project1\stockmanegment system\stockmanegment system\obj\Debug\stockmanegment_system.Form4.resources
+C:\Users\DELL\Desktop\project1\stockmanegment system\stockmanegment system\obj\Debug\stockmanegment_system.Form5.resources
+C:\Users\DELL\Desktop\project1\stockmanegment system\stockmanegment system\obj\Debug\stockmanegment_system.Form6.resources
